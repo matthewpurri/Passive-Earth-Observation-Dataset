@@ -9,7 +9,6 @@ from datetime import datetime, timedelta, date
 import intake
 import kwcoco
 import rasterio
-import ndsampler
 import numpy as np
 from pystac_client import Client
 from PIL import Image, ImageDraw, ImageFont
