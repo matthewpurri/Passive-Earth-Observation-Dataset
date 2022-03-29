@@ -1,7 +1,7 @@
 # Passive-Earth-Observation-Dataset
 
 ## Option 1: Download PEO dataset from Google Drive:
-[Download from here]()
+[Download from google drive (~145GB)](https://drive.google.com/file/d/1eK-m1Ow2P6Idfzh5jUh1EFIHPqKaZvp-/view?usp=sharing)
 
 ## Option 2: Use python script to download dataset: 
 1. TODO: Create environment.
